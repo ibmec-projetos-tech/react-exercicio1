@@ -16,7 +16,8 @@ Você poderá criar o próprio estilo para a página. Caso queira utilizar o est
 ## Instruções
 
 1. Faça o clone deste repositório.
-2. Crie uma branch com o padrão `nome-react-exercicio-1`. Exemplo: _tamara-react-exercicio-1_.
-3. Instale as dependências com `npm install`. Não é necessário executar `npx create-react-app`, pois o React já foi instalado na main. Basta executar `npm install` no terminal para baixar a pasta `node_modules`.
-4. A partir da sua branch, faça as modificações.
-5. Ao concluir o exercício, envie as modificações para o repositório.
+2. Acesse a pasta criada a partir do clone.
+4. Instale as dependências com `npm install`. Não é necessário executar `npx create-react-app`, pois o React já foi instalado na main. Basta executar `npm install` no terminal para baixar a pasta `node_modules`.
+5. Crie uma branch com o padrão `nome-react-exercicio-1`. Exemplo: _tamara-react-exercicio-1_.
+6. A partir da sua branch, faça as modificações. Não se esqueça de rodar no terminal o comando `npm start` para testar as modificações no navegador.
+7. Ao concluir o exercício, envie as modificações para o repositório.
