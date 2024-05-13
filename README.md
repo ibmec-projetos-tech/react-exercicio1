@@ -8,32 +8,31 @@ Você deve criar três componentes, em arquivos `.js` separados, com informaçõ
 
 O visual da sua página deverá ficar semelhante ao abaixo.
 
+![Exemplo](exemplo.png)
+
 Você poderá criar o próprio estilo para a página. Caso queira utilizar o estilo do exemplo, seguem informações importantes:
 
 - Paleta de Cores:
 ````css
   /* Color Theme Swatches in Hex */
-.Big-Machine-1-hex { color: #BD2A2E; }
 .Big-Machine-2-hex { color: #3B3936; }
 .Big-Machine-3-hex { color: #B2BEBF; }
 .Big-Machine-4-hex { color: #889C9B; }
 .Big-Machine-5-hex { color: #486966; }
 
 /* Color Theme Swatches in RGBA */
-.Big-Machine-1-rgba { color: rgba(188, 41, 46, 1); }
 .Big-Machine-2-rgba { color: rgba(58, 56, 54, 1); }
 .Big-Machine-3-rgba { color: rgba(177, 189, 191, 1); }
 .Big-Machine-4-rgba { color: rgba(136, 155, 155, 1); }
 .Big-Machine-5-rgba { color: rgba(71, 104, 101, 1); }
 
 /* Color Theme Swatches in HSLA */
-.Big-Machine-1-hsla { color: hsla(358, 63, 45, 1); }
 .Big-Machine-2-hsla { color: hsla(34, 3, 22, 1); }
 .Big-Machine-3-hsla { color: hsla(187, 9, 72, 1); }
 .Big-Machine-4-hsla { color: hsla(178, 8, 57, 1); }
 .Big-Machine-5-hsla { color: hsla(175, 18, 34, 1); }
 ````
-- Fonte: [Reddit Sans](https://fonts.google.com/selection/embed)
+- Fonte: [Roboto](https://fonts.google.com/?query=Roboto)
 
 ## Instruções
 
